@@ -10,3 +10,7 @@
 ## Actividad 2
 - Programa 4
 - Programa 5
+
+## Actividad 3
+- Programa 6
+- Programa 7
