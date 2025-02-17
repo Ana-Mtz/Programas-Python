@@ -24,3 +24,9 @@
 - p012-volumen-cilindro
 - p013-calculo-tiempo
 - p014-numero-suerte
+
+## Actividad 4
+- p015-verificar-numero
+- p016-verificar-suma
+- p017-convertir-temperaturas
+- p018-pago-trabajador-v2
