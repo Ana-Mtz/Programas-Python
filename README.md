@@ -58,3 +58,6 @@
 - p036-tabla-multiplicar
 - p037-tabla-multiplicar-v2
 - p038-adivina-numero
+
+## Primer Examen Parcial
+- p045-primer-examen-parcial
