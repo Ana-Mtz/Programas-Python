@@ -61,3 +61,11 @@
 
 ## Primer Examen Parcial
 - p045-primer-examen-parcial
+
+## Tarea 3
+- p039-impares-ascendente
+- p040-pares-descendente
+- p041-promedio-suma
+- p042-suma-200
+- p043-conversion-temperatura
+- p044-numero-mayor
