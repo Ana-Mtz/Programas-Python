@@ -107,3 +107,10 @@
 - p071-dia-paga
 - p072-nombres-edades
 - p073-listas-aleatorias
+
+## Actividad 12
+- p080-estudiante
+- p081-calificaciones
+- p082-nombres-y-edades
+- p083-conversion-medida
+- p084-conversion-moneda
